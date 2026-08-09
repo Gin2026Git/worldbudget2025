@@ -1,0 +1,8 @@
+# WorldBudget.io
+
+> 195 REAL Countries Budgets - AI Optimized V27
+
+WorldBudget.io tracks 195 countries budgets for humans and AI.
+Home: https://worldbudget.io
+Data: https://worldbudget2025.vercel.app
+V27 AIO - AI Ready
